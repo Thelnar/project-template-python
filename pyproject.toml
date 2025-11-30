@@ -66,6 +66,6 @@ html2text = "*"
 [tool.pixi.environments]
 windows = { features = ["dev","gpu","data","mlwin"], solve-group = "windows" }
 linux = { features = ["dev","gpu","data","ml"], solve-group = "linux" }
-base = { features = ["dev","data","web"], solve-group = "default" }
+default = { features = ["dev","data","web"], solve-group = "default" }
 
 [tool.pixi.tasks]
