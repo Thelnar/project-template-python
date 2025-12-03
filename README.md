@@ -27,5 +27,5 @@ Guidelines:
 > echo "foo" > "bar.txt"
 > git add .
 > git commit -sam "foo in bar"
-> git push --set-upstream origin main
+> git push --set-upstream origin foobar-support
 ```
