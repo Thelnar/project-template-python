@@ -46,7 +46,7 @@ If you still wish to ask a question and/or would like clarification, we recommen
 
 
 ## I Want To Contribute
-
+> [!IMPORTANT]
 > ### Legal Notice 
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
@@ -70,7 +70,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 
 #### How Do I Submit a Good Bug Report?
-
+> [!CAUTION]
 > You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to the [project authors/maintainers](pyproject.toml).
 
 
