@@ -16,16 +16,4 @@ Cons:
 - another tool
 
 ## Contributing
-Guidelines:
-- contributions should be made in branches named for the feature being implemented
-- commits should be signed
-- PRs should be resolved by squash and merge
-```sh
-> pixi shell
-> pre-commit install
-> git checkout -b "foobar-support"
-> echo "foo" > "bar.txt"
-> git add .
-> git commit -sam "foo in bar"
-> git push --set-upstream origin foobar-support
-```
+Check out [Contributing](CONTRIBUTING.md)!

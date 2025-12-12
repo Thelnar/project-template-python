@@ -1,24 +1,14 @@
 
 
-Copyright 2025 Jeff Solas
+Copyright (c) 2025 Jeff Solas
 
 All rights reserved.
 
-SPDX-License-Identifier: BSD-3-Clause
+SPDX-License-Identifier: BSD-3-Clause OR Apache-2.0 OR MIT
 
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice,
-   this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its contributors
-   may be used to endorse or promote products derived from this software without
-   specific prior written permission.
+This software is made available under the terms of *any* of the licenses
+found in LICENSE.BSD.txt, LICENSE.APACHE.txt, and/or LICENSE.MIT.txt, at the user's option.
+Contribution to this software is made under the terms of *all* these licenses.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED

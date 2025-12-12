@@ -7,7 +7,7 @@ name = "python-project-template"
 version = "0.1.0"
 description = "Python project template"
 readme = "README.md"
-license = "BSD-3-clause"
+license = "BSD-3-Clause OR Apache-2.0 OR MIT"
 license-files = ["LICEN[CS]E*"]
 authors = [{name = "Jeff Solas", email = "jeffamsolas@gmail.com"}]
 maintainers = [{name = "Jeff Solas", email = "jeffamsolas@gmail.com"}]
